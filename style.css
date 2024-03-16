@@ -564,7 +564,8 @@ canvas {
   position: absolute;
   padding-left: 4px;
   min-width: 50px; 
-  border: 1px solid white;
+  border: 1px solid gray;
+  border-radius: 10px;
   z-index: 1;
 }
 
