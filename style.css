@@ -419,7 +419,7 @@ canvas {
 .still-alone-img-portion img {
   position: absolute;
   height: 35rem;
-  margin-left: 30%;
+  margin-left: 40%;
   z-index: 9;
 }
 
