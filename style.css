@@ -108,7 +108,7 @@ canvas {
   justify-content: space-between;
   height: 7%;
   width: 100%;
-  padding: 30px;
+  padding: 25px;
   
 }
 
@@ -250,7 +250,7 @@ canvas {
   position: relative;
   width: 100%;
   height: auto;
-  padding-top: 6rem;
+  padding-top: 8rem;
   color: #fff;
   background-color: #102935;
   margin-top: 3rem;
@@ -291,7 +291,7 @@ canvas {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 200px;
+  width: 150px;
   padding: 0.5em;
   margin: 0.5rem;
   border: 1px solid #fff;
@@ -340,23 +340,13 @@ canvas {
   font-size: 14px;
 }
 
-.well-start-div p {
-  padding-top: 10px;
-  width: 45%;
-}
 
-.ii {
-  margin: 0 -50px -6px;
-}
 
 .logos_div img {
   width: 230px;
   height: 170px;
 }
 
-.border_bottom {
-  border: 1px solid lightgray;
-}
 
 .logos_section {
   display: flex;
@@ -368,17 +358,12 @@ canvas {
   display: flex;
   justify-content: center;
   align-items: center;
-  /* font-weight: 900; */
-  /* font-size: 2rem; */
   padding: 40px;
   margin-top: 30px;
   flex-direction: column;
 }
 
-.header_text h1 {
-  /* color: white;
-  background-color: #000; */
-}
+
 
 .logos_div div {
   margin-top: 60px;
@@ -388,21 +373,11 @@ canvas {
   margin-top: 30px;
 }
 
-.logos_table {
-  border-left: 1px solid lightgray;
-  border-top: 1px solid lightgray;
-}
 
-.logos_table tr td {
-  border-right: 1px solid lightgray;
-  border-bottom: 1px solid lightgray;
-  padding-top: 50px;
-  padding-bottom: 50px;
-}
+
 
 .blue {
   color: #51b1b5;
-  /* font-weight:900px ; */
 }
 
 
@@ -413,19 +388,19 @@ canvas {
 
 .still-alone-img-portion {
   position: relative;
-  height: 100vh;
+  height: 80vh;
 }
 
 .still-alone-img-portion img {
   position: absolute;
-  height: 35rem;
+  height: 30rem;
   margin-left: 35%;
   z-index: 9;
 }
 
 .pre {
-  /* font-size: 3rem; */
-  /* padding-bottom: 15rem; */
+
+  padding-top: 20px;
   color: #06060635;
 }
 
@@ -438,7 +413,7 @@ canvas {
 }
 
 .menu-show {
-  transform: translateX(100%);
+  /* transform: translateX(100%); */
 }
 
 .block {
@@ -546,9 +521,8 @@ canvas {
 /* Language change css */
 
 .dropbtn {
-  /* color: white; */
   padding: 8px;
-  font-size: 14px;
+  font-size: 16px;
   border: none;
   cursor: pointer;
 }
